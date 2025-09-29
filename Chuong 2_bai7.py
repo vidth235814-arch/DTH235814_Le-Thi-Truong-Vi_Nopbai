@@ -1,0 +1,8 @@
+# - Hàm input(): dùng để nhập dữ liệu từ bàn phím, mặc định trả về kiểu string (chuỗi).
+# - Nếu muốn nhập số nguyên thì cần ép kiểu bằng int().
+# - Nếu muốn nhập số thực thì cần ép kiểu bằng float().
+# - Dữ liệu nhập vào thường được lưu trong biến để sử dụng sau.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            # Câu 7: Nhập dữ liệu từ bàn phím trong Python
+# - Hàm input(): dùng để nhập dữ liệu từ bàn phím, mặc định trả về kiểu string (chuỗi).
+# - Nếu muốn nhập số nguyên thì cần ép kiểu bằng int().
+# - Nếu muốn nhập số thực thì cần ép kiểu bằng float().
+# - Dữ liệu nhập vào thường được lưu trong biến để sử dụng sau.                                                                             
